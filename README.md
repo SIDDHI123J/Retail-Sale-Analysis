@@ -7,7 +7,7 @@ To analyze retail sales data and discover usefull business insights
 -Microsoft Excel 
 -SQL(Future learning )
 -Python (future learning )
-##Learning Goal 
+## Learning Goal 
 -Data cleaning 
 -Data analysis 
 -Data visulization
